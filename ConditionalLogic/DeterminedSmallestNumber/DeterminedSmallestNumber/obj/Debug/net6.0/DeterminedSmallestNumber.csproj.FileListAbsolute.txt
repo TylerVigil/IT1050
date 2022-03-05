@@ -1,0 +1,14 @@
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\bin\Debug\net6.0\DeterminedSmallestNumber.exe
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\bin\Debug\net6.0\DeterminedSmallestNumber.deps.json
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\bin\Debug\net6.0\DeterminedSmallestNumber.runtimeconfig.json
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\bin\Debug\net6.0\DeterminedSmallestNumber.dll
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\bin\Debug\net6.0\ref\DeterminedSmallestNumber.dll
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\bin\Debug\net6.0\DeterminedSmallestNumber.pdb
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\obj\Debug\net6.0\DeterminedSmallestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\obj\Debug\net6.0\DeterminedSmallestNumber.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\obj\Debug\net6.0\DeterminedSmallestNumber.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\obj\Debug\net6.0\DeterminedSmallestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\obj\Debug\net6.0\DeterminedSmallestNumber.dll
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\obj\Debug\net6.0\ref\DeterminedSmallestNumber.dll
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\obj\Debug\net6.0\DeterminedSmallestNumber.pdb
+C:\Users\Tyler\Desktop\DeterminedSmallestNumber\DeterminedSmallestNumber\obj\Debug\net6.0\DeterminedSmallestNumber.genruntimeconfig.cache
